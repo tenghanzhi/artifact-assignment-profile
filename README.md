@@ -61,6 +61,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
             - Redux (future scalability)
 
 - Data Model
+  
         - Mocked User Information API Response: 
             {
                 “success”:true,
@@ -77,6 +78,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
                     “created_at”:“2024-01-18T01:08:19+0000”
                 }
             }
+            
         - Location API Response:
             {
                 "ip_address": "166.171.248.255",
