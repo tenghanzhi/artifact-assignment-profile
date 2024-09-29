@@ -29,6 +29,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Page Link: https://tenghanzhi.github.io/artifact-assignment-profile/`
+
 ### `Design Steps`
 - Requirements Gathering
   1. Pages for user profiles and interest fields.
