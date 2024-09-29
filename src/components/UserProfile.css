@@ -1,3 +1,4 @@
+/* Global */
 .profile-container {
   max-width: 500px;
   margin: 0 auto;
@@ -14,24 +15,34 @@
   color: #333;
 }
 
+/* forms */
+
 .profile-form {
   display: flex;
   flex-direction: column;
   gap: 15px;
 }
 
-.profile-form input {
+.profile-form input,
+.profile-form textarea {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   font-size: 14px;
 }
 
-.profile-form input:focus {
+.profile-form input:focus,
+.profile-form textarea:focus {
   border-color: #007bff;
   outline: none;
 }
 
+.profile-form textarea {
+  max-width: 480px;
+  min-width: 250px;
+}
+
+/* Buttons */
 .profile-form button {
   padding: 10px;
   border: none;
@@ -64,4 +75,36 @@
 .delete-saved-profile {
   background-color: #de4040;
   color: #fff;
+}
+
+/* AutoSave */
+.auto-save-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+.auto-save-title {
+  font-size: 16px;
+  color: #333;
+}
+
+.auto-save-container input[type="checkbox"] {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.save-status-not-saved {
+  font-size: 16px;
+  color: #de4040;
+  font-weight: bold;
+}
+
+.save-status-saved {
+  font-size: 16px;
+  color: #28a745;
+  font-weight: bold;
 }
