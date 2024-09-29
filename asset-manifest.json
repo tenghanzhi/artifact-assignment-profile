@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artifact-assignment-profile/static/css/main.102ed8d1.css",
+    "main.js": "/artifact-assignment-profile/static/js/main.ef90a51d.js",
+    "static/js/453.f9c77424.chunk.js": "/artifact-assignment-profile/static/js/453.f9c77424.chunk.js",
+    "index.html": "/artifact-assignment-profile/index.html",
+    "main.102ed8d1.css.map": "/artifact-assignment-profile/static/css/main.102ed8d1.css.map",
+    "main.ef90a51d.js.map": "/artifact-assignment-profile/static/js/main.ef90a51d.js.map",
+    "453.f9c77424.chunk.js.map": "/artifact-assignment-profile/static/js/453.f9c77424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.102ed8d1.css",
+    "static/js/main.ef90a51d.js"
+  ]
+}
