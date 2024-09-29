@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/artifact-assignment-profile/static/css/main.102ed8d1.css",
-    "main.js": "/artifact-assignment-profile/static/js/main.ef90a51d.js",
+    "main.css": "/artifact-assignment-profile/static/css/main.2df62850.css",
+    "main.js": "/artifact-assignment-profile/static/js/main.2c97dba1.js",
     "static/js/453.f9c77424.chunk.js": "/artifact-assignment-profile/static/js/453.f9c77424.chunk.js",
     "index.html": "/artifact-assignment-profile/index.html",
-    "main.102ed8d1.css.map": "/artifact-assignment-profile/static/css/main.102ed8d1.css.map",
-    "main.ef90a51d.js.map": "/artifact-assignment-profile/static/js/main.ef90a51d.js.map",
+    "main.2df62850.css.map": "/artifact-assignment-profile/static/css/main.2df62850.css.map",
+    "main.2c97dba1.js.map": "/artifact-assignment-profile/static/js/main.2c97dba1.js.map",
     "453.f9c77424.chunk.js.map": "/artifact-assignment-profile/static/js/453.f9c77424.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.102ed8d1.css",
-    "static/js/main.ef90a51d.js"
+    "static/css/main.2df62850.css",
+    "static/js/main.2c97dba1.js"
   ]
 }
